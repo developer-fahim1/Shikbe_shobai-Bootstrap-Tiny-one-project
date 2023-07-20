@@ -1,0 +1,145 @@
+body {
+    color: black;
+    font-family: sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+/* Header Start */
+header {
+    background-color: #FCDB00;
+}
+
+/* Header End */
+/* Navbar Start */
+.logo_title {
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 60px;
+}
+
+.c_logo {
+    color: black;
+    font-size: 25px;
+    font-weight: 500;
+
+}
+
+.c_logo img {
+    height: 60px;
+    width: 80px;
+}
+
+.c_menu li {
+    margin-right: 25px;
+}
+
+
+
+.c_menu li:last-child {
+    margin: 0;
+}
+
+.c_menu li a {
+    color: black;
+    font-size: 22px !important;
+    font-weight: 600;
+}
+
+
+.c_menu li a:hover {
+    color: white !important;
+}
+
+
+
+
+
+
+/* Navbar End */
+/* Banner Start */
+.slider {
+    background-color: #FCDB00;
+}
+
+.s_text {}
+
+.s_text h1 {}
+
+.s_text h3 {
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.s_text p {}
+
+.s_img {
+    margin: 0 auto;
+}
+
+.s_icon {
+    font-size: 33px;
+    padding: 10px;
+}
+
+.c_button {
+    background-color: white !important;
+    height: 15px !important;
+    width: 15px !important;
+    border-radius: 50% !important;
+}
+
+
+/* Banner end */
+/* Feature Srart */
+.f_icon {}
+
+.f_icon i {
+    font-size: 50px;
+    color: black;
+}
+
+/* Feature End */
+/* contact Start */
+.contact {
+    background-color: black;
+}
+
+.contact_h2 {
+    color: #FCDB00 !important;
+}
+
+.c_icon a i {
+    color: black;
+    background-color: #FCDB00 !important;
+    font-size: 30px;
+    margin: 10px;
+    padding: 10px;
+    text-decoration: none;
+    border-radius: 10px;
+    height: 50px;
+    width: 50px;
+
+}
+
+.c_input {
+    padding: 12px 25px;
+}
+
+.c_submit {
+    padding: 12px 25px;
+    text-transform: uppercase !important;
+    font-weight: bold;
+}
+
+.c_submit:hover {
+    background-color: white;
+}
+
+/* contact end */
+/* footer Start */
+footer {
+    background-color: black;
+}
+
+/* footer End */
